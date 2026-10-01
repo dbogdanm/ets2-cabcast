@@ -1,0 +1,7 @@
+out/
+release/
+*.obj
+*.pdb
+*.exp
+*.lib
+*.zip
