@@ -2,7 +2,9 @@
 
 Your Android phone, or a PC browser (YouTube, Spotify, Google Maps...), live on the truck's navigation screen, and usable from inside the game with an in-game cursor and your keyboard.
 
-![CabCast on a Scania navigation screen](docs/cabcast.jpg)
+| Android phone | PC browser (YouTube) |
+|---|---|
+| ![Android phone on the Scania navigation screen](docs/android.jpg) | ![YouTube in the browser source on the Scania navigation screen](docs/cabcast.jpg) |
 
 **Demo video:** https://www.youtube.com/watch?v=eeObnMjJtiY
 
